@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Zadanie05 {
     public static void main(String[] args) {
 
-        int a,suma;
+        int a,suma; //test komentarza github 2
         Scanner scan = new Scanner(System.in);
         System.out.println("Wprowadz 3 cyfrowa liczbe 'a' i nacisnij ENTER:");
         a = scan.nextInt();
