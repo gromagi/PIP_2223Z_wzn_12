@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Zadanie02 {
     public static void main(String[] args) {
 
-        int a;
+        int a; //test komentarza
         Scanner scan = new Scanner(System.in);
         System.out.println("Wprowadz liczbe 'a' z zakresu od 1 do 6 i nacisnij ENTER:");
         a = scan.nextInt();
